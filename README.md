@@ -1,2 +1,2 @@
 # Simple-Drawing-App
-simple drawing app &amp; give image copy of that drawing
+simple drawing app &amp; gives screenshot of that drawing.
